@@ -23,6 +23,7 @@
 }
 
 .title {
+  text-align: center;
   font-size: 30px;
   color: rgb(227, 227, 227);
 }
